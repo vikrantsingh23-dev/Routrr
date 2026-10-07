@@ -7,6 +7,7 @@ const config: Config = {
       colors: {
         surface: "var(--surface)",
         subtle: "var(--subtle)",
+        sidebar: "var(--sidebar)",
         muted: "var(--muted)",
         line: "var(--line)",
         "line-strong": "var(--line-strong)",
